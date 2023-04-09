@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projectpybot",
+  "private_key_id": "948a54b6202c6d9a44f37b9b7b967dcd2a74eb38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwTbT5xsjJRoIc\nwrRy9kH8KdYyvHo+5zzpn8cG1DgQh1evlgWRhhmtqBtu+NG2W0TQRlL3oy5pPHUb\ncfi1aPvIP9y8S9P4WQ+3a3Z6lEz2oo4yE9T6UpxsvMnzpPPV9U1VRE5rUYPmIfas\nw3wK7it+xklMDz2IMtGISgC7kiR2nGk4fyGA5bFOLzXIw3uL4/pAPbFE/SehFWa2\n1g/MXYjyzeDSHcqEtcOaW7iDZBbLTaM7bbPYs/2LgEvoAskd5CERWEssyWNAd+vg\nulfShCOFrTHgKZjZo0ix6Z01NvN3tuf5ceJQQBRX2zuLpodXaXY3dAM2hcIVqn6U\nBhmt6QcjAgMBAAECggEAAUCUDAAi9fcHvo+Ne5GPN2zOpi6bia3Xy2sEnWJNgaSM\ndWVR5c43iXm7tCaVSr/MNdSCC1s/3aR9ynOdSiCURUBa34WEXGu5hlp/jXBXOZs+\n+lEUvrBuhwEySAZAayEiavwguHdsQeq011ZOH7/AVFaxN5aWH80Imvi3l516n9MK\niAMveRYxM3aiMNwgSefKA2Byls7aXiA9TY2hsuO9uqrvaY8Vej73jhOwUIdeqRD1\nvexp2HhyZ//lTdjipAxtuSgGG+nt7uycofaxv8+Ra4YtIHR0CqTszIN8an6Bbdmo\nqhKImbxYZyOO+BDF9S7fMQm8MXJG6Va59OcK7BADpQKBgQD40H5MwKOwa1kK3K5F\n/h8nicG4XfWn22OFfCpurDS58lTxqcXpYLrpbUusS8QAiYy3NOAa43uj1mqgPllj\nLVXQUZYmh+NQXkL+i7h1TBah1R6J8teinBZmRXY7+SkY/cwyqE8H+DxLgqm4zbJ8\nzBxse2/bIEXsC1vXZUFnEi9aBQKBgQC1ZSJiwzESZhb5+wg0KVxgyGELL2ELMfmv\n2RdHv2bjIAEAe+/raHqMnASO/CE4Y4JVZ4h//8iBDtW1tAGr0biDBb2Y/fgH9xRy\n7XAIMY/AVTaU4botuzs/rFze6IFiZGuppBG1n9ADaSZz00SYdEwBz03/SoK7lESX\ncDZbqK8dBwKBgAVFBSfC/LSD0YL1YYuB8k74D+5Dryw67USqeIuXghZeF4Z2vgZP\nUiYXdn7Tq/cG8r/+krB/GONDa0axi1saXrLmx3NRdXMCTBDwDJwPXHtY9CifyAld\nnOvVlMd4Y3JwDZ8VCXd1vnEq90U+tgUGnaN+icPuTwzMwMkzD8uLCw2xAoGAeG2a\ndKNOUv7ARlqpSagkEoU2GGzuKraVJHAmipXCQwweXinqUQneQrfaNuuhSoSWJQlF\nkGVKwpQMwkOt0Fq9+w62n3oNT4x0YRDODkKJQ5HPWOy75Fynq1BNoBgQvjgZWlj5\nAPIG8hy/UKp0ohqj05fEGrdnMA3xs/Dlxdip2cUCgYEAjyVGR8y33VJlhY0jSFQp\n9a+S+zuePSqIfX7enXrgfF2io4oiZoOdumBgRStwXdPeK6ORGvQQEqPnkCDTUsik\n/ZYoti6+SAADSWUkSqJxd4C/y8s06t8LSnS5NP6S0vRjdcyMKpibsL5Jjas5kk0n\n08HkmwoTl06NcwlB73yC0Cc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "manometron@projectpybot.iam.gserviceaccount.com",
+  "client_id": "118326912751037463792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manometron%40projectpybot.iam.gserviceaccount.com"
+}
