@@ -18,7 +18,7 @@ def profile(message):
     itembtn3 = types.KeyboardButton('Узнать свое ID')
     markup.row(itembtn1)
     markup.row(itembtn2, itembtn3)
-    file = open('./photo.webp', 'rb')
+    file = open('./Photo/photo.webp', 'rb')
     bot.send_photo(message.chat.id, file, reply_markup=markup)
     bot.send_message(
         message.chat.id, f"Привет, {message.from_user.first_name} {message.from_user.last_name}", reply_markup=markup)
