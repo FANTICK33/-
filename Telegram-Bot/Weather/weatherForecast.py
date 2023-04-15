@@ -23,7 +23,7 @@ def get_weather(message):
     temp = data["main"]["temp"]
     bot.reply_to(message, f'Сейчас погода: {temp}')
 
-    image = 'sun.png' if temp > 5.0 else 'cloud.jpg'
+    image = 'Тепло.png' if temp > 5.0 else 'Холодно.png'
     file = open('./Telegram-Bot/Weather/' + image, 'rb')
     bot.send_photo(message.chat.id, file)
 
