@@ -8,7 +8,7 @@ dp = Dispatcher(bot)
 @dp.message_handler(commands=['start'])
 async def start(message: types.Message):
     markup = types.InlineKeyboardMarkup()
-    markup.add(types.InlineKeyboardButton('Открыть веб страницу', web_app = WebAppInfo( url = 'https://itproger.com/course/telegram-bot/7')))
+    markup.add(types.InlineKeyboardButton('Открыть веб страницу', web_app = WebAppInfo( url = 'https://github.com/FANTICK33/Python/edit/main/Telegram-Bot/Aiogram/index.html')))
     await message.reply('Привет, мой друг', reply_markup = markup)
 
     # file = open('/some.png', ' rb') # Работа с файлом

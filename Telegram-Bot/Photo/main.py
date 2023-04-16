@@ -1,7 +1,6 @@
 import telebot
 from telebot import types
 import webbrowser
-import sqlite3
 
 bot = telebot.TeleBot("5734323883:AAG2ySfHjAFy1EFz7_WWIlCIQmGlFCPsn5I")
 
